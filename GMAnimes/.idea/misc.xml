@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/com/gmanimes/pom.xml" />
+        <option value="$PROJECT_DIR$/src/com/gmanimes/backend/main/gma-controller/pom.xml" />
+        <option value="$PROJECT_DIR$/src/com/gmanimes/backend/main/gma-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/src/com/gmanimes/backend/main/gma-controller/pom.xml" />
       </list>
     </option>
   </component>
